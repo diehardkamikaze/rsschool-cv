@@ -1,0 +1,19 @@
+body {
+  width: 800px;
+  margin: auto;
+  font-family: "Open Sans", Verdana, sans-serif;
+}
+
+.user-info {
+  display: flex;
+}
+
+.nickname {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.avatar {
+  width: 200px;
+  border-radius: 50%;
+}
