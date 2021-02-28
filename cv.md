@@ -17,7 +17,8 @@ Die Hard
 ## Code example:
 ```javascript
 function fancyAlert(arg) {
-  if(arg) {
+  if(arg) 
+  {
     $.facebox({div:'#foo'})
   }
 }
